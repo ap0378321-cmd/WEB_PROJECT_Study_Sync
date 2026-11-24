@@ -784,9 +784,7 @@ body{
      display: flex;
      flex-direction: row;
      gap: 1.1rem;
-    
-   
-   
+
 }
 
 .footer-grid{
@@ -812,6 +810,7 @@ ul{
 
 .footer-grid-heading{
      margin-bottom: 2rem;
+
 }
 
 .footer-grid-link{
@@ -838,6 +837,7 @@ ul{
      justify-content: center;
      align-items: center;
       margin-bottom: -3rem;
+
 }
 
 .self-intro{
@@ -849,6 +849,7 @@ ul{
      width: 20%;
      border-radius: 8px;
      margin-top: 3rem;
+     
 }
 
 @media  screen and (max-width:880px) {
